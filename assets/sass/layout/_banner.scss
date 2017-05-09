@@ -25,10 +25,10 @@
 
 			.icon {
 				border-radius: 100%;
-				border: solid 2px _palette(border);
+				border: none;
 				cursor: default;
 				display: inline-block;
-				font-size: 2em;
+				font-size: 6em;
 				height: 2.25em;
 				line-height: 2.25em;
 				text-align: center;
@@ -75,8 +75,8 @@
 
 			background-color:		_palette(bg);
 
-			background-image:		linear-gradient(to top, transparentize(_palette(bg), 0.2), transparentize(_palette(bg), 0.2)),
-									url('../../images/bg.jpg');
+			background-image:		linear-gradient(to top, transparentize(_palette(bg), 0.1), transparentize(_palette(bg), 0.5)),
+									url('/img/atos-bknd.jpg');
 
 			background-size:		auto,
 									cover;
@@ -106,7 +106,7 @@
 				margin: 0 0 (_size(element-margin) * 0.5) 0;
 
 				.icon {
-					font-size: 1.5em;
+					font-size: 3em;
 				}
 			}
 
