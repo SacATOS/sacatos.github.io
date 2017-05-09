@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
-tagline: Autonomous Transportation Open Standards Labs
+title: About
+tagline: Autonomous Transportation Open Standards Lab
 permalink: /about
 ---
 
