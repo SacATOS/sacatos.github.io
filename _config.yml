@@ -1,3 +1,27 @@
 # Hello Sass
 sass:
   sass_dir: assets/sass
+
+# Metas
+title: Sacramento Autonomous Vehicles - Autonomous Transportation Open Standards Lab (ATOS)
+email: atos@innovatesac.org
+description: >
+  Transforming Sacramento into a real-world testbed to advance the future of global urban mobility at scale.
+url: "https://sacatos.org" # the base hostname & protocol for your site
+author: Autonomous Transportation Open Standards Lab (ATOS)
+logo: /img/atos-circle.png
+twitter:
+  username: innovatesac
+github_username:  SacATOS
+repository: SacATOS/sacatos.github.io
+
+# Jekyll SEO Tag
+# See https://github.com/jekyll/jekyll-seo-tag
+gems:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /img/atos-circle.png
