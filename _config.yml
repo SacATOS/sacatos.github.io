@@ -17,7 +17,7 @@ repository: SacATOS/sacatos.github.io
 
 # Jekyll SEO Tag
 # See https://github.com/jekyll/jekyll-seo-tag
-gems:
+plugins:
   - jekyll-seo-tag
 
 defaults:

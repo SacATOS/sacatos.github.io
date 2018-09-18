@@ -1,0 +1,15 @@
+<!-- <div class="box alt">
+  <div class="row uniform">
+    {% for logo in site.data.logos %}
+      <div class="4u"><a class="image fit" href="{{ logo.url }}" target="_blank"><img src="img/logos/{{ logo.logo }}" alt="{{ logo.organization }}"></a></div>
+    {% endfor %}
+  </div>
+</div> -->
+
+<div class="box alt">
+  <div class="row justify-content-center">
+    {% for logo in site.data.logos %}
+      <div class="col-sm-3 d-flex"><a class="image fit" href="{{ logo.url }}" target="_blank"><img src="img/logos/{{ logo.logo }}" alt="{{ logo.organization }}"></a></div>
+    {% endfor %}
+  </div>
+</div>

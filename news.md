@@ -5,7 +5,7 @@ tagline: Autonomous Transportation Open Standards Lab
 permalink: /news
 ---
 
-{% assign sorted = (site.data.news | sort: 'date') | reverse %}
+{% assign sorted = site.data.news | sort: 'date' | reverse %}
 
 {% for article in sorted %}
 
