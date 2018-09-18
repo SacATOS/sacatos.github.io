@@ -1,12 +1,20 @@
 ---
 layout: page
-title: About
+title: Proposed Routes
 tagline: Autonomous Transportation Open Standards Lab
-permalink: /about
+permalink: /routes
 ---
 
-Launched in April of 2017, ATOS Lab is about more than just the networked communications protocols that will bring AVs to the world. It is also about human interaction with the AV opportunities. A real world citizen interaction where the social contract of citizen and autonomous transportation can be built, measured, and iterated on. A platform to ask and answer how to best to scale for the benefit of the public.
+# [Sacramento Valley Station to Golden 1 Center (PDF)](/pdf/svs-g1c.pdf)
 
-ATOS Labs is a public-private consortium of government agencies and connected and autonomous vehicle technology companies working in partnership to co-develop interoperable protocols and standards. This work will soon enable the Sacramento Region to become a leading proving ground for the safe testing and deployment of these technologies.
+# [10th Street to Capitol Mall (PDF)](/pdf/10th-capitolmall.pdf)
 
-ATOS Labs is creating a real world environment for advances in research, testing validation, evidence based policy development and workforce development aimed at the commercialization and deployment of Connected Vehicle (CV) applications and Autonomous Vehicles (AV) technologies to define the next era of transportation.
+# [10th Street to Capitol Mall Roundabout (PDF)](/pdf/10th-capitol-roundabout.pdf)
+
+# Sacramento State University Shuttle Route
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zcLfeqdlriCZ69H6xGfm01PoQHq47nx5" width="100%" height="480"></iframe>
+
+# Downtown Loop
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1oAW4m7TXW-F92OELuASYaZ8Ii126No58" width="100%" height="480"></iframe>
