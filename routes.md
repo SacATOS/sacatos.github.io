@@ -15,6 +15,10 @@ permalink: /routes
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zcLfeqdlriCZ69H6xGfm01PoQHq47nx5" width="100%" height="480"></iframe>
 
+# Franklin Boulevard/24th Street Loop
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1VbzUY9kN-CW0aZ7tv8MlpgdwPGDfAHeG" width="100%" height="480"></iframe>
+
 # Downtown Loop
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1oAW4m7TXW-F92OELuASYaZ8Ii126No58" width="100%" height="480"></iframe>
