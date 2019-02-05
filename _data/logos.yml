@@ -17,12 +17,13 @@
 - organization: Reviver Auto
   logo: reviver.png
   url: https://www.reviverauto.com/
+- organization: AutoX
+  logo: autox.png
+  url: https://autox.ai/ 
 - organization: Sacramento Municipal Utility District
   logo: smud.png
   url: https://www.smud.org/
-- organization: Valley Vision
-  logo: valleyvision.png
-  url: https://valleyvision.org/
+
 
 - organization: Los Rios Community College District
   logo: lrccd.png
@@ -30,3 +31,6 @@
 - organization: The Shop at VSP Global
   logo: vsp.png
   url: https://vspglobal.com/cms/about-us/innovation.html
+- organization: Valley Vision
+  logo: valleyvision.png
+  url: https://valleyvision.org/
