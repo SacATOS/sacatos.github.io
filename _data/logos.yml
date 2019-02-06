@@ -20,11 +20,26 @@
 - organization: AutoX
   logo: autox.png
   url: https://autox.ai/ 
+- organization: Deepen AI
+  logo: deepen.png
+  url: https://www.deepen.ai/
+
+- organization: Foresight AI
+  logo: foresight.png
+  url: http://foresight.ai/
+- organization: Xaqt
+  logo: xaqt.png
+  url: https://www.xaqt.com/
+- organization: Local Motors
+  logo: localmotors.png
+  url: https://localmotors.com/
+- organization: Unleash Live
+  logo: unleashlive.png
+  url: https://unleashlive.com/
+
 - organization: Sacramento Municipal Utility District
   logo: smud.png
   url: https://www.smud.org/
-
-
 - organization: Los Rios Community College District
   logo: lrccd.png
   url: http://losrios.edu/
